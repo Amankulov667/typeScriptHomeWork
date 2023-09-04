@@ -19,7 +19,6 @@ let b: boolean = true;
 // console.log(calculateDensity(100, 50));
 
 //3
-// Определение типа Product
 // type Product = {
 //   id: number;
 //   title: string;
@@ -32,21 +31,21 @@ let b: boolean = true;
 //   {
 //     id: 1,
 //     title: "Продукт 1",
-//     description: "Описание продукта 1",
+//     description: "Продукт 1",
 //     price: 15,
 //     colors: ["Красный", "Синий"],
 //   },
 //   {
 //     id: 2,
 //     title: "Продукт 2",
-//     description: "Описание продукта 2",
+//     description: "Продукт 2",
 //     price: 10
 //     colors: ["Зеленый", "Желтый"],
 //   },
 //   {
 //     id: 3,
 //     title: "Продукт 3",
-//     description: "Описание продукта 3",
+//     description: "Продукт 3",
 //     price: 20,
 //     colors: ["Черный", "Белый"],
 //   },
